@@ -1,0 +1,21 @@
+{
+    "name": "bobycheng/students_ms",
+    "type": "masic",
+    "require": {
+        "all": "1.0",
+        "popsugar/php-yesmail-api": "dev-master",
+        "symphonycms/symphony-2": "dev-master",
+        "dinesh/barcode": "dev-master"
+    },
+    "require-dev": {
+        "yesaulov/yii2-settings": "dev-master"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jephby",
+            "email": "jephby@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
